@@ -1,4 +1,4 @@
-# agar.io clone game
+# agar.io clone game with multiplayer
 
 https://github.com/introduction-to-gamedev/assignments/blob/master/2020/assignment_3.md
 
